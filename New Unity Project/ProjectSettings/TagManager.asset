@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - PickUp
+  - Enemy
+  - Pentagon
+  - Wall
   layers:
   - Default
   - TransparentFX
@@ -50,4 +53,7 @@ TagManager:
     locked: 0
   - name: Player
     uniqueID: 3873177705
+    locked: 0
+  - name: Obstacles
+    uniqueID: 3742404731
     locked: 0
